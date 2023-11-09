@@ -5,7 +5,7 @@
 
 # Mục tiêu của đề tài
 **Mục tiêu tổng quát:**
-- Quản lý dự án bằng công cụ Git
+- Quản lý cấu hình phần mềm bằng công cụ Git
 
 **Mục tiêu cụ thể:**
 - Sử dụng hệ thống quản lý dự án “WEBSITE BÁN CẶP COOLBELL”, theo dõi trên Git.
